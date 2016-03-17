@@ -1,4 +1,7 @@
 First line
 Second line
+<<<<<<< HEAD
 sdfsafasdf
 asdfsdfsdf
+=======
+>>>>>>> parent of 1eaf46f... Added two more lines
